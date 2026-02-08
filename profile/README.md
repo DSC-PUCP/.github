@@ -5,14 +5,6 @@ A student organization at the Pontificia Universidad Católica del Perú (PUCP) 
 
 ---
 
-## 📊 Status & Community
-![GitHub Org's stars](https://img.shields.io/github/stars/DSC-PUCP?style=social)
-![GitHub forks](https://img.shields.io/github/forks/DSC-PUCP/DSC-PUCP?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/DSC-PUCP/DSC-PUCP)
-![GitHub last commit](https://img.shields.io/github/last-commit/DSC-PUCP/DSC-PUCP)
-
----
-
 ## 🚀 Mission
 To foster learning, innovation, and collaboration among engineering and technology students by creating projects that generate real impact within the university community and beyond.
 
